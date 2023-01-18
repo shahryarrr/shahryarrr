@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **becoming a frontend developer.**
 
-- 🌱 I’m currently learning **Git workflow, CSS layout, semantic HTML, web accessibility, HTML forms**
+- 🌱 I’m currently learning **web development from Founders & Coders Skill Bootcamp.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahryarrr](https://github.com/shahryarrr)
 
