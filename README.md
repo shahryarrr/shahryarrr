@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahryar</h1>
 <h3 align="center">A future frontend developer from London.</h3>
 
+
+![image_processing20211030-4633-19uq0zy](https://user-images.githubusercontent.com/107395895/213216423-df8f5a6a-a88b-4541-b914-4e442469b600.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahryarrr&label=Profile%20views&color=0e75b6&style=flat" alt="shahryarrr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
