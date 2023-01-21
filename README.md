@@ -8,6 +8,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+Welcome to my GitHub profile! My name is Muhammad Shahryar and I am a future front-end developer.
+
+I am passionate about creating visually appealing and user-friendly websites. I have a good understanding of HTML, CSS, and JavaScript and looking to expande my knowledge in front-end frameworks such as React and Angular in the near future.
+
+On my profile, you will find a variety of projects that showcase my skills and abilities as a front-end developer. I am always looking for opportunities to improve my skills and stay up to date with the latest technologies. In my spare time, I enjoy experimenting with new design trends and techniques to push the boundaries of what is possible.
+
+If you're looking for a passionate and dedicated front-end developer, I would love to hear from you. Feel free to reach out to me via GitHub.
+
+Thank you for visiting my profile and I look forward to working with you in the future.
+
+Please check out my repository for some of my projects that I have been working on and also to see my coding skills.
+
 - 🔭 I’m currently working on **becoming a frontend developer.**
 
 - 🌱 I’m currently learning **web development from Founders & Coders Skill Bootcamp.**
